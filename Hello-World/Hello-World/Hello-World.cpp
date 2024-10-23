@@ -33,6 +33,7 @@ int main()
 {
     std::cout << "Hello World!\n";
     cout << "This is just a Test";
+    cout << "Making a new change";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
