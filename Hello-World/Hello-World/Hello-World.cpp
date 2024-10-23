@@ -26,6 +26,7 @@
 
 
 //#include <bits/stdc++.h>
+//The above include doesn't work with Visual C++ compiler as it is not standard. However, the following inclusion does the same
 #include <__msvc_all_public_headers.hpp> 
 using namespace std;
 
