@@ -25,6 +25,7 @@
 //#include<assert.h>
 
 
+//#include <bits/stdc++.h>
 #include <__msvc_all_public_headers.hpp> 
 using namespace std;
 
@@ -34,6 +35,7 @@ int main()
     std::cout << "Hello World!\n";
     cout << "This is just a Test";
     cout << "Making a new change";
+    cout << "Trying to make a template";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
